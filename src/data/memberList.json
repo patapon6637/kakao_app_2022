@@ -1,0 +1,102 @@
+[
+    {
+        "id" : 0,
+        "name" : "My Name",
+        "email" : "MyEmail@mail.com",
+        "profilMsg" : "my profile message",
+        "lastMsg" : "",
+        "profileImg" : "https://randomuser.me/api/portraits/men/1.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/55/1b/4c/551b4c6afdad5345819a13fb4ba12e53.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "Leanne Graham",
+        "email" : "Sincere@april.biz",
+        "profilMsg" : "delectus aut autem",
+        "lastMsg" : "repellendus veritatis molestias dicta incidunt",
+        "profileImg" : "https://randomuser.me/api/portraits/women/44.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/ec/b2/f1/ecb2f194ef1128afa6794ff05362231b.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Antonette",
+        "email" : "Shanna@melissa.tv",
+        "profilMsg" : "fugiat veniam minus",
+        "lastMsg" : "totam atque quo nesciunt",
+        "profileImg" : "https://randomuser.me/api/portraits/men/32.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/8a/ba/53/8aba53740f56a60aaf8b98c8070e7fb2.jpg"
+
+    },
+    {
+        "id" : 3,
+        "name" : "Samantha",
+        "email" : "Nathan@yesenia.net",
+        "profilMsg" : "et porro tempora",
+        "lastMsg" : "rerum perferendis error quia ut eveniet",
+        "profileImg" : "https://randomuser.me/api/portraits/men/46.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/a2/e7/79/a2e779ef3ce4e0316a5e79acc053a263.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Karianne",
+        "email" : "Julianne.OConner@kory.org",
+        "profilMsg" : "illo expedita consequatur quia in",
+        "lastMsg" : "tempore ut sint quis recusandae",
+        "profileImg" : "https://randomuser.me/api/portraits/women/9.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/25/c9/c9/25c9c922aa23d30731b8d7a9099e8ecd.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Kamren",
+        "email" : "Lucio_Hettinger@annie.ca",
+        "profilMsg" : "quo adipisci enim quam ut ab",
+        "lastMsg" : "velit soluta adipisci molestias reiciendis harum",
+        "profileImg" : "https://randomuser.me/api/portraits/women/33.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/6c/c4/80/6cc480fc48e5acfe0e045238805790aa.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Dennis",
+        "email" : "Karley_Dach@jasper.info",
+        "profilMsg" : "molestiae perspiciatis ipsa",
+        "lastMsg" : "nam qui rerum fugiat accusamus",
+        "profileImg" : "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/41/cb/a6/41cba6b527fc21a109abe17fc6648bcb.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Kurtis Weissnat",
+        "email" : "Telly.Hoeger@billy.biz",
+        "profilMsg" : "vero rerum temporibus dolor",
+        "lastMsg" : "sit reprehenderit omnis quia",
+        "profileImg" : "https://randomuser.me/api/portraits/men/84.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/1a/00/63/1a00631a59fb9d8b6007ad76089fe4a5.jpg"
+    },
+    {
+        "id" :8,
+        "name" : "Nicholas",
+        "email" : "Sherwood@rosamond.me",
+        "profilMsg" : "ipsa repellendus fugit nisi",
+        "lastMsg" : "distinctio exercitationem ab doloribus",
+        "profileImg" : "https://randomuser.me/api/portraits/women/30.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/c5/d8/7e/c5d87e41f87e6ca3c3bd696670d979aa.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "Glenna",
+        "email" : "Chaim_McDermott@dana.io",
+        "profilMsg" : "et doloremque nulla",
+        "lastMsg" : "quis et est ut voluptate quam dolor",
+        "profileImg" : "https://randomuser.me/api/portraits/women/55.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/3b/58/f4/3b58f470204e43ea52f16bf2106db123.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Clementina",
+        "email" : "Rey.Padberg@karina.biz",
+        "profilMsg" : "quo laboriosam deleniti aut qui",
+        "lastMsg" : "deleniti ea temporibus enim",
+        "profileImg" : "https://randomuser.me/api/portraits/women/51.jpg",
+        "backgroundImg" : "https://i.pinimg.com/564x/d6/2d/1d/d62d1de38c4b4fde5ac4541eed207bd7.jpg"
+    }
+]
